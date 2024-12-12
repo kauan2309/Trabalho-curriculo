@@ -1,0 +1,22 @@
+body{
+    height: 100%;
+    width: 40%;
+    background-image: url(plano\ de\ fundo\ curriculo.png);
+    background-repeat: no-repeat;
+    background-size: 41%;
+}
+
+img{
+height: 30vh;
+display: inline-block;
+}
+
+header{
+    width: 100%;
+    height: 25%;
+    text-align: start;
+    display: inline-block;
+}
+div{
+    display: inline-block;
+}
